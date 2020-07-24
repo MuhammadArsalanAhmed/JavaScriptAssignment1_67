@@ -1,3 +1,142 @@
+// ======================Chapter 1================
+        // =======Question 1========
+        // alert( "hello")
+        // =======Question 2========
+        // alert("Error ! please enter a valid password");
+        // =======Question 3========
+        // alert("Welcome to JS land....\n happy codding");
+        // document.write("practice");
+        // =======Question 4========
+        // alert("Welcome to JS land....")
+        // alert("Happy Coding")
+ // =======================Chapter 2===============
+        // =======Question 1========
+        // let username;
+        // =======Question 2========
+        // let myname = "m. emmad sadiq"
+        // =======Question 3========
+        // let message
+        // message = "hello world"
+        // alert(message)
+        // =======Question 4========
+        // let age = 20;
+        // let course = "web and mobile application"
+        // alert(myname)
+        // alert(age)
+        // alert(course)
+        // =======Question 5========
+        // let pizza = "PIZZA"
+        // alert(pizza + "\n" + pizza.slice(0,4) + "\n" + pizza.slice(0,3)+ "\n" + pizza.slice(0,2) + "\n" + pizza.slice(0,1))
+        // =======Question 6========
+        // let email = "emmadsadiq55@gmail.com"
+        // alert("my email address is " + email)
+        // =======Question 7========
+        // let book="A smarter way to learn JavaScript";
+        // alert("I am trying to learn from the book " + book)
+        // =======Question 8========
+        // document.write("yah! i can write HTML content through Java Script")
+ // =======================Chapter 3====================
+        // =======Question 1========
+        // var age = 20
+        // alert("i am " + age + " years old")
+        // =======Question 3========
+        // var birth = "11 nov"
+        // document.write("my DOB is " + birth )
+        // =======Question 4========
+        // var name = prompt("enter your name : ")
+        // var order = prompt("enter your order : ")
+        // var quantity = prompt("enter your quantity : ")
+        // document.write(name + " is " + quantity + order + " on XYZ website")
+ // =======================Chapter 4====================
+    // =======Question 1========
+    // let var1,var2,var3;
+    // =======Question 2========
+    // legal variables
+    // let _123,emmad,age,gpa,uni
+    // illegal varial
+    // let 123,5emmad,44age,33gpa,88uni
+    // =======Question 3========
+    // document.write("Rules for naming JS variables")
+ // =======================Chapter 5====================
+    // =======Question 1========
+    // let sum;
+    // let var1 = prompt("Enter 1st No")
+    // let var2 = prompt("enter 2nd No")
+    // sum = parseInt(var1)+parseInt(var2)
+    // document.write("sum of " + var1 + " and " + var2 + " is " + sum )    
+    // =======Question 2========
+    // let sum;
+    // let var1 = prompt("Enter 1st No")
+    // let var2 = prompt("enter 2nd No")
+    // sum = parseInt(var1)-parseInt(var2)
+    // document.write("subtract of " + var1 + " and " + var2 + " is " + sum )
+    // let sum;
+    // let var1 = prompt("Enter 1st No")
+    // let var2 = prompt("enter 2nd No")
+    // sum = parseInt(var1)/parseInt(var2)
+    // document.write("divide of " + var1 + " and " + var2 + " is " + sum )
+
+    // let sum;
+    // let var1 = prompt("Enter 1st No")
+    // let var2 = prompt("enter 2nd No")
+    // sum = parseInt(var1)%parseInt(var2)
+    // document.write("divide of " + var1 + " and " + var2 + " is " + sum )
+    // =======Question 3========
+    // let var1;
+    // document.write("Value after decleration is " + var1 + "<br>");
+    // var1=5;
+    // document.write("Initialize value " + var1 + "<br>");
+    // var1=++var1;
+    // document.write("After Incremenent " + var1 + "<br>");
+    // var1 = 7 + parseInt(var1)
+    // document.write("After Addition " + var1 + "<br>");
+    // var1 = --var1
+    // document.write("After decremenet " + var1 + "<br>");
+    // document.write("The remainder is " + var1%3);
+    // =======Question 4========
+    // let cost = 600;
+    // document.write("total cosat to buy 5 ticket of Movie is " + cost*5 + "PKR" )
+    // =======Question 5========
+    // let no = prompt("Enter Any no:")
+    // for(let i=1;i<=10;i++){
+    //     document.write(no + " x " + i + " = " + no*i + "<br>") 
+    // }
+// =======================Chapter 5====================
+    // // =======Question 1========
+    // let num;
+    // num = prompt("Enter any no: ")
+    // document.write("The Value Of a is " + num + "<br><br>")
+    // num = ++num
+    // document.write("The Value Of ++a is " + num + "<br>")
+    // document.write("Now The Value Of a is " + num + "<br><br>")
+    // num = num++
+    // document.write("The Value Of a++ is " + num + "<br>")
+    // document.write("Now The Value Of a is " + num + "<br><br>")
+    // num = --num
+    // document.write("The Value Of --a is " + num + "<br>")
+    // document.write("Now The Value Of a is " + num + "<br><br>")
+    // num = num--
+    // document.write("The Value Of a-- is " + num + "<br>")
+    // document.write("Now The Value Of a is " + num + "<br><br>")
+    //=======Question 3========
+    // let name = prompt("Enter Your Name: ");
+    // document.write("Hello " + name)
+    //=======Question 5========
+    // let no = prompt("Enter Any no:")
+    // if(no!=null){
+    //     console.log(no)
+    // for(let i=1;i<=10;i++){
+    //     document.write(no + " x " + i + " = " + no*i + "<br>") 
+    // }
+    // }
+    // else{
+    //     for(let i=1;i<=10;i++){
+    //         document.write("5 x " + i + " = " + 5*i + "<br>") 
+    //     }
+    // }
+
+
+
 // CHAPTER 9-11
 //Qno1
 
